@@ -1,0 +1,32 @@
+.blogcompo {
+  font-family: "Montserrat", sans-serif;
+  padding: 20px;
+}
+
+.blogcompo p {
+  /* color: #9ca1b3; */
+  color: black;
+  text-align: justify;
+  font-size: small;
+  line-height: 1.7;
+  letter-spacing: 0.3px;
+  margin-top: 10px;
+}
+
+.blogcompo h5 {
+  font-size: small;
+  margin-top: 8px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  /* background-color: brown; */
+  color: black;
+  max-width: fit-content;
+  /* padding: 10px; */
+}
+
+.blogcompo h2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 14px;
+  color: #9ca1b3;
+}
